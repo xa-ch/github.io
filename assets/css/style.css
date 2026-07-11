@@ -2,7 +2,7 @@
 
 font-family:UbuntuXA;
 
-src:url("../fonts/Ubuntu-Regular.woff2");
+src:url("/assets/fonts/Ubuntu-Regular.woff2");
 
 }
 
@@ -11,7 +11,7 @@ src:url("../fonts/Ubuntu-Regular.woff2");
 
 font-family:UbuntuXA;
 
-src:url("../fonts/Ubuntu-Bold.woff2");
+src:url("/assets/fonts/Ubuntu-Bold.woff2");
 
 font-weight:700;
 
@@ -22,7 +22,7 @@ font-weight:700;
 
 font-family:UbuntuMonoXA;
 
-src:url("../fonts/UbuntuMono-Regular.woff2");
+src:url("/assets/fonts/UbuntuMono-Regular.woff2");
 
 }
 
