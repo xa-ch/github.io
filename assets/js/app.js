@@ -4,14 +4,12 @@ new IntersectionObserver(
 entries=>{
 
 
-entries.forEach(item=>{
+entries.forEach(entry=>{
 
 
-if(item.isIntersecting){
+if(entry.isIntersecting){
 
-item.target.classList.add(
-"show"
-);
+entry.target.classList.add("show");
 
 }
 
@@ -19,6 +17,9 @@ item.target.classList.add(
 });
 
 
+},
+{
+threshold:.15
 }
 
 );
