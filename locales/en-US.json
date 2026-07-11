@@ -1,0 +1,21 @@
+{
+
+"nav":{
+
+"projects":"PROJECTS",
+
+"about":"ABOUT"
+
+},
+
+
+"hero":{
+
+"title":"Project Register",
+
+"description":
+"Building tools, experiments and open source projects"
+
+}
+
+}
